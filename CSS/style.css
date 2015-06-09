@@ -1,0 +1,113 @@
+.jumbotron {
+	text-align: center;
+	color: black;
+}
+
+button {
+	height: 2em;
+	width: 5em;
+	margin-top: 0.5em;
+	margin-left: 3.25em;
+}
+
+.themeswitcher {
+	border: 2px solid black;
+	float: right;
+	display: inline;
+	margin-right: 1em;
+}
+
+.text {
+	margin-right: 2px;
+}
+
+.dark {
+	background-color: black;
+	color: white;
+}
+
+.light {
+	background-color: white;
+	color: black;
+}
+
+.navlink {
+	text-align: center;
+	margin-left:10em;
+	margin-bottom: 3em;
+	max-width: 15em;
+	border: 1px solid black;
+	padding: 1px;
+}
+
+.container {
+	text-align: center;
+}
+
+#firstp {
+	left: 5em;
+}
+
+.slider {
+	right: 10em;
+}
+
+.mik {
+	max-height: 30em;
+	border: 2em solid #31ef78;
+	border-radius: 25%;
+	float: right;
+	margin-left: 2em;
+}
+
+.malaysia {
+	max-height: 30em;
+	min-width: 30em;
+	border: 2em solid #31ef78;
+	border-radius: 25%;
+	float: right;
+}
+
+.siblings {
+	min-width: 30em;
+	max-width: 30em;
+	min-height: 30em;
+	border: 2em solid #31ef78;
+	border-radius: 25%;
+	margin-top: 2em;
+	margin-left: 28em;
+}
+
+.musketeer {
+	max-width: 30em;
+	min-height: 30em;
+	border: 2em solid #31ef78;
+	border-radius: 25%;
+	margin-top: 2em;
+	float: right;
+}
+
+/*CSS for About Page*/
+
+.list {
+	text-align: center;
+}
+
+.container2 {
+	float: right;
+}
+
+.DishNetwork {
+	max-width: 30em;
+	border: 2em solid #31ef78;
+	border-radius: 25%;
+	position: absolute;
+	right: 10em;
+	top: 25em;
+}
+
+
+
+
+
+
